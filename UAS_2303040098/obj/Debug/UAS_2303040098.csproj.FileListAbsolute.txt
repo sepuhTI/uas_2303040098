@@ -1,0 +1,7 @@
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\bin\Debug\UAS_2303040098.exe.config
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\bin\Debug\UAS_2303040098.exe
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\bin\Debug\UAS_2303040098.pdb
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\obj\Debug\UAS_2303040098.csproj.AssemblyReference.cache
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\obj\Debug\UAS_2303040098.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\obj\Debug\UAS_2303040098.exe
+D:\visual studio 2022\repos\UAS_2303040098\UAS_2303040098\obj\Debug\UAS_2303040098.pdb
